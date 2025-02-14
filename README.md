@@ -42,7 +42,7 @@ The **Movie Recommendation System** is a content-based recommender system traine
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/movie-recommendation-system.git
+git clone https://github.com/deepraj16/movie-recommendation-system.git
 cd movie-recommendation-system
 ```
 
@@ -80,7 +80,7 @@ This project is licensed under the **MIT License**.
 
 ### 🔗 Connect with Me
 
-📧 Email: deeprajautade1\@gmail.com\
+📧 Email: deeprajautade1@gmail.com
 🔗 GitHub: deepraj16
 
 
