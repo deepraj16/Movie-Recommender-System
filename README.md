@@ -80,7 +80,7 @@ This project is licensed under the **MIT License**.
 
 ### 🔗 Connect with Me
 
-📧 Email: deeprajautade1@gmail.com
+📧 Email:[deeprajautade1@gmail.com](mailto\:deeprajautade1@gmail.com)\
 🔗 GitHub: deepraj16
 
 
