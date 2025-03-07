@@ -7,6 +7,14 @@
 - This is a **content-based movie recommender system** trained on a dataset containing **5000 movies**.
 - It is an **end-to-end machine learning project** with a **GUI web application**.
 - The system **recommends movies using cosine similarity**.
+---
+  ![image](https://github.com/user-attachments/assets/ce910215-12d5-4fc8-a20d-8d53c7db8e79)
+
+
+  ---
+  ![image](https://github.com/user-attachments/assets/8f49cf99-aaf5-47ae-be28-82666c57fc8d)
+
+
 
 ## 🛠️ Tools Used
 - **Numpy** 📊
