@@ -1,6 +1,6 @@
-# 🎬 Movie Recommendation System
+## 🎬 Movie Recommendation System
 
-## 🔗 Project Link
+
 
 
 ## 📌 Code
